@@ -51,7 +51,7 @@ public class Michiel extends Puplet {
 	
 	//constructor 
 	public Michiel(){
-		super("Michiel");
+		super("Baas Michiel");
 		makeMenu(menu);
 	}
 	public void timeEvent(){
